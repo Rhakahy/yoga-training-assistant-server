@@ -1,0 +1,6 @@
+client/
+test.py
+__pycache__/
+*.pem
+input/
+model.h5
